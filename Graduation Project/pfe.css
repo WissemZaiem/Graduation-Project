@@ -1,0 +1,106 @@
+body {
+  background-image: url("14.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+img {
+  position: absolute;
+  top: 30px;
+  left: 38px;
+  width: 140px; 
+  height: auto;
+}
+
+h2 {
+  position: relative;
+  top: 130px;
+  left: 630px;
+font-family: 'Libre Baskerville', serif;
+font-weight: 700;
+    font-size: 65px;
+    color: #111111;
+}
+.my-line {
+border: none;
+  border-top: 0.4px solid black;
+  width: 30%;
+  position: absolute; 
+  top: 265px; 
+  left: 530px;
+  background-color: black; 
+
+}
+p{
+    
+font-family: 'Open Sans', serif;
+
+    font-size:20px;
+    color: #111111;
+    font-weight: 300;
+    text-align: center;
+      position: absolute; 
+  top: 285px; 
+      left: 400px;
+}
+
+  
+      .button-1 {
+          
+      font-family: 'Open Sans', serif;
+          display: inline-block;
+        border-radius: 35px;
+        color: #111111;
+        padding: 14px 43px 15px 42px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 18px;
+        margin: 10px;
+        cursor: pointer;
+          background-color: #f2f2f2;
+          width: 100px;
+           border: 1px solid #f1c50e;
+          
+      }
+      
+     
+      .button-container {
+text-align: center;
+position: absolute; 
+  top: 500px; 
+  left: 570px;
+      }
+
+
+.button-2 {
+      font-family: 'Open Sans', serif;
+          display: inline-block;
+        border-radius: 35px;
+        color: #111111;
+        padding: 14px 43px 15px 42px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 18px;
+        margin: 10px;
+        cursor: pointer;
+          background-color: #f1c50e;
+          width: 100px;
+      }
+
+
+.button-1:hover {
+  font-family: 'Open Sans', serif;
+     
+        color: white;
+    
+          background-color: #f1c50e;
+        
+}
+      .button-2:hover {
+
+          background-color: #f5d656;
+        
+}
+      
+
+
